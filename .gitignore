@@ -1,0 +1,23 @@
+
+# macOS files
+.DS_Store
+.AppleDouble
+._*
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor-specific local settings
+.vscode/
